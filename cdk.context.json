@@ -1,0 +1,13 @@
+{
+  "availability-zones:account=183125608157:region=us-west-2": [
+    "us-west-2a",
+    "us-west-2b",
+    "us-west-2c",
+    "us-west-2d"
+  ],
+  "ssm:account=183125608157:parameterName=/aws/service/ecs/optimized-ami/amazon-linux-2/recommended/image_id:region=us-west-2": "ami-07764a7d8502d36a2",
+  "hosted-zone:account=183125608157:domainName=playwithlg.com:region=us-west-2": {
+    "Id": "/hostedzone/Z0636349Q1BNHR1KDXBB",
+    "Name": "playwithlg.com."
+  }
+}
